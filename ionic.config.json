@@ -1,0 +1,7 @@
+{
+  "name": "AppGeolocalition",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
